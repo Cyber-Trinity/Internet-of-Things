@@ -12,9 +12,7 @@ This project demonstrates how IoT-based sensors, real-time data processing, and 
 ## 🗂️ Project Structure
 SWMT/
 <br>
-├── src/ # # Folder containing project files, Arduino & ESP32 codes
-<br>
-├── Crime_Analysis.ipynb # Jupyter notebooks for analysis
+├── src/ # Folder containing project files, Arduino & ESP32 codes
 <br>
 ├── requirements.txt # Libraries and Dependencies
 <br>
@@ -42,7 +40,7 @@ The Smart Water Management Technology (SWMT) system is an IoT-based solution des
 
 - Arduino UNO
 - ESP32 Wi-Fi Module
-- Ultrasonic Sensor
+- Ultrasonic Sensor (HC-SR04)
 - Turbidity Sensor
 - DS18B20 Temperature Sensor
 - DC Water Pumps (Pump 1 & Pump 2)
@@ -80,7 +78,7 @@ The Smart Water Management Technology (SWMT) system is an IoT-based solution des
 
 ## 📑 Report
 
-A detailed project report is included as [Report_SMWT.pdf](https://github.com/Cyber-Trinity/Data-Analysis/blob/main/Crime%20in%20Los%20Angeles/Report_Crime_Analysis.pdf)
+A detailed project report is included as [Report_SMWT.pdf](https://github.com/Cyber-Trinity/Internet-of-Things/blob/main/SWMT/Report_SWMT.pdf)
  explaining the project design, methodology, implementation, and results
 
 ---
