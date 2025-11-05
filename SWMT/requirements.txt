@@ -1,0 +1,13 @@
+# Arduino Code Libraries & Dependencies
+
+OneWire.h # Used for the single-wire communication protocol required by the DS18B20 temperature sensor.
+DallasTemperature.h # Provides functions for reading temperature data from the DS18B20 Digital Temperature Sensor
+SoftwareSerial.h # Used to enable serial communication on digital pins (10 for RX, 11 for TX) to communicate with the ESP32 module.
+ArduinoJson.h # A library for parsing and generating JSON data received from the ESP32 module.
+
+
+# ESP32 Code Libraries & Dependencies
+
+WiFi.h # Used to connect the ESP32 to the Wi-Fi network.
+PubSubClient.h # This is the MQTT (Message Queuing Telemetry Transport) client library, used for connecting to the MQTT Broker (test.mosquitto.org) and handling message publishing and subscription.
+ArduinoJson.h # Used for creating JSON payloads to publish sensor data to the MQTT broker and for parsing JSON messages received from the subscribed MQTT topic.
