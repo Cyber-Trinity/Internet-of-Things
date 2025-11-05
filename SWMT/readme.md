@@ -61,7 +61,7 @@ The Smart Water Management Technology (SWMT) system is an IoT-based solution des
 
 ---
 
-## 🚀 SWMT Project Implementation Guide
+## 🚀 Project Implementation Guide
 ### 1. Clone this project
 
 `git clone https://github.com/Cyber-Trinity/Internet-of-Things.git`

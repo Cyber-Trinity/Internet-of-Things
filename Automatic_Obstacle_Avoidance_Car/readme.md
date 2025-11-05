@@ -50,7 +50,7 @@ The Autonomous Obstacle Avoidance Car is an IoT-based solution designed for:
 
 ---
 
-## 🚀 SWMT Project Implementation Guide
+## 🚀 Project Implementation Guide
 ### 1. Clone this project
 
 `git clone https://github.com/Cyber-Trinity/Internet-of-Things.git`
