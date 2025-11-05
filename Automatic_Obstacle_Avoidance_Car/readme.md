@@ -67,5 +67,5 @@ The Autonomous Obstacle Avoidance Car is an IoT-based solution designed for:
 
 ## 📑 Report
 
-A detailed project report is included as [Report_Automatic_Obstacle_Avoidance_Car.pdf](https://github.com/Cyber-Trinity/Internet-of-Things/blob/main/SWMT/Report_Automatic_Obstacle_Avoidance_Car.pdf)
+A detailed project report is included as [Report_Automatic_Obstacle_Avoidance_Car.pdf](https://github.com/Cyber-Trinity/Internet-of-Things/blob/main/Automatic_Obstacle_Avoidance_Car/Report_Automatic_Obstacle_Avoidance_Car.pdf)
  explaining the project design, methodology, implementation, and results
