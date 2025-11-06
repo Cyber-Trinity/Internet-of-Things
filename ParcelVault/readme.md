@@ -1,6 +1,6 @@
-# 📦 ParcelVault: IoT-Based Smart Delivery Box
+# ParcelVault: IoT-Based Smart Delivery Box
 
-![Prototype illustration](src/project-3.jpg)
+![Prototype illustration](src/project-6.jpg)
 
 The rapid growth of e-commerce has led to critical challenges in last-mile logistics, including package theft, missed deliveries, and environmental damage. Traditional delivery methods often leave packages unattended, making them susceptible to theft and tampering.
 
