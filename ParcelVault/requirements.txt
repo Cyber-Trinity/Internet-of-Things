@@ -1,13 +1,30 @@
-# Arduino Code Libraries & Dependencies
+# ARDUINO FIRMWARE DEPENDENCIES
 
-OneWire.h # Used for the single-wire communication protocol required by the DS18B20 temperature sensor.
-DallasTemperature.h # Provides functions for reading temperature data from the DS18B20 Digital Temperature Sensor
-SoftwareSerial.h # Used to enable serial communication on digital pins (10 for RX, 11 for TX) to communicate with the ESP32 module.
-ArduinoJson.h # A library for parsing and generating JSON data received from the ESP32 module.
+SoftwareSerial.h # Enables serial communication between the Arduino (I/O) and the ESP32.
+Keypad.h # Read and process input from the physical 4x3 Keypad for OTP entry.
+Servo.h # Control the Servo Motor, which manages the physical door locking mechanism.
+LiquidCrystal_I2C.h # Control and display messages on the LCD screen for user prompts.
+ArduinoJson.h # Parse and generate JSON data sent over the serial connection.
 
 
-# ESP32 Code Libraries & Dependencies
+# ESP32 FIRMWARE DEPENDENCIES
 
-WiFi.h # Used to connect the ESP32 to the Wi-Fi network.
-PubSubClient.h # This is the MQTT (Message Queuing Telemetry Transport) client library, used for connecting to the MQTT Broker (test.mosquitto.org) and handling message publishing and subscription.
-ArduinoJson.h # Used for creating JSON payloads to publish sensor data to the MQTT broker and for parsing JSON messages received from the subscribed MQTT topic.
+WiFi.h # Essential for connecting the ESP32 to the Wi-Fi network.
+HTTPClient.h # Used to make secure HTTPS (REST API) requests to the Supabase cloud backend.
+ArduinoJson.h # Used for creating JSON payloads for API calls and parsing JSON responses from Supabase.
+HardwareSerial.h # Used for high-speed serial communication with the Arduino UNO.
+
+
+# WEB APPLICATION DEPENDENCIES (NEXT.JS)
+
+next # The core React framework for server-side rendering the web dashboard.
+react # The library for building the user interface components.
+react-dom # Provides the method for DOM-specific rendering.
+tailwindcss # A utility-first CSS framework for responsive styling of the dashboard.
+autoprefixer # A PostCSS plugin to add vendor prefixes to CSS rules.
+postcss # A tool for transforming CSS with JavaScript plugins.
+clsx # Utility for conditionally combining CSS class names.
+@radix-ui/react-slot # Utility for flexible component composition.
+@supabase/supabase-js # Client library for interacting with the Supabase database and authentication.
+date-fns # A simple library for working with dates and times.
+lucide-react # Provides high-quality vector icons for the user interface.

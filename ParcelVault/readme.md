@@ -54,8 +54,8 @@ The ParcelVault: IoT-Based Smart Delivery Box is a complete hardware-software so
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Embedded C/C++
-- Frameworks: Arduino IDE
+- Languages: Embedded C/C++, JavaScript
+- Frameworks: Arduino IDE, NEXT.JS, REACT
 - Protocol: MQTT, HTTPs
 - Cloud Platform: Supabase
 

@@ -53,7 +53,7 @@ The Smart Water Management Technology (SWMT) system is an IoT-based solution des
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Embedded C/C++
+- Languages: Embedded C/C++, JavaScript
 - Frameworks: Arduino IDE
 - Protocol: MQTT, HTTPs
 - Cloud Platform: Thingspeak
