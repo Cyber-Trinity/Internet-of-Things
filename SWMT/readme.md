@@ -16,7 +16,7 @@ SWMT/
 <br>
 ├── requirements.txt # Libraries and Dependencies
 <br>
-├── SWMT_Presentation.pptx # PowerPoint presentation of the project
+├── Presentation_SWMT.pptx # PowerPoint presentation of the project
 <br>
 ├── Report_SWMT.pdf # Summary of the project methodology and results
 <br>
@@ -55,7 +55,7 @@ The Smart Water Management Technology (SWMT) system is an IoT-based solution des
 
 - Languages: Embedded C/C++
 - Frameworks: Arduino IDE
-- Protocol: MQTT Protocol
+- Protocol: MQTT, HTTPs
 - Cloud Platform: Thingspeak
 
 
