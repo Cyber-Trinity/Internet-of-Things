@@ -58,6 +58,7 @@ The Smart Water Management Technology (SWMT) system is an IoT-based solution des
 - Protocol: MQTT, HTTPs
 - Cloud Platform: Thingspeak
 
+Check The repository for the Web app development [Here](https://github.com/amarakamara/waterwatch.git)
 
 ---
 
@@ -114,10 +115,11 @@ This project, Smart Water Management Technology (SWMT), has been officially publ
 ## ✨ Credits
 
 Project Contributors:
-- Shahd K
-- Herve C. Ineza
-- Ravi Giri
-- Amara A. Kamara
+ 
+- [Amara A. Kamara](https://github.com/amarakamara)
+- [Herve C. Ineza](https://github.com/InezaHCl)
+- [Shahd K](https://github.com/KruBro)
+- [Ravi Giri](https://github.com/Ravigiri2022)
 - Djatassiba Yaovi Joël (Me)
 <br>
 

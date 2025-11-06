@@ -19,6 +19,8 @@ SWMT/
 <br>
 ├── Presentation_ParcelVault.pptx # PowerPoint presentation of the project
 <br>
+├── Dashboard_Design_ParcelVault.pdf # Design of the Web application Dashboard
+<br>
 ├── Report_ParcelVault.pdf # Summary of the project methodology and results
 <br>
 └── README.md # Project description (this file)
@@ -55,10 +57,11 @@ The ParcelVault: IoT-Based Smart Delivery Box is a complete hardware-software so
 ## 🛠️ Tools & Technologies
 
 - Languages: Embedded C/C++, JavaScript
-- Frameworks: Arduino IDE, NEXT.JS, REACT
+- Frameworks: Arduino IDE, NEXT.JS, REACT, Tailwind CSS, Express.js, Node.js
 - Protocol: MQTT, HTTPs
 - Cloud Platform: Supabase
 
+Check The repository for the Web app development [Here](https://github.com/InezaHCl/smart-parcel-box-app)
 
 ---
 
@@ -92,9 +95,10 @@ Pending publication
 ## ✨ Credits
 
 Project Contributors:
-- Herve C. Ineza
+
+- [Herve C. Ineza](https://github.com/InezaHCl)
+- [Amara A. Kamara](https://github.com/amarakamara)
 - Mlaaz Elbadri
-- Amara A. Kamara
 - Djatassiba Yaovi Joël (Me)
 <br>
 
